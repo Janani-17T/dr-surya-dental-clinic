@@ -305,14 +305,14 @@ img {
 }
 
 .top-card{
-    top:100px;
-    right:120px;
+    top:140px;
+    right:220px;
     left:auto;
 }
 
 .bottom-card{
     bottom:100px;
-    right:60px;
+    right:130px;
 }
 
 .dot {
