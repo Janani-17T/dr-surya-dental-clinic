@@ -304,15 +304,15 @@ img {
   margin-top: 3px;
 }
 
-.top-card {
-  top: 90px;
-  left: 0;
+.top-card{
+    top:20px;
+    right:20px;
+    left:auto;
 }
 
-.bottom-card {
-  bottom: 70px;
-  right: 0;
-  display: block;
+.bottom-card{
+    bottom:20px;
+    right:20px;
 }
 
 .dot {
