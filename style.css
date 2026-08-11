@@ -305,13 +305,13 @@ img {
 }
 
 .top-card{
-    top:40px;
+    top:100px;
     right:20px;
     left:auto;
 }
 
 .bottom-card{
-    bottom:40px;
+    bottom:100px;
     right:20px;
 }
 
