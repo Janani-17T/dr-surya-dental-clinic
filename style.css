@@ -306,13 +306,13 @@ img {
 
 .top-card{
     top:100px;
-    right:20px;
+    right:120px;
     left:auto;
 }
 
 .bottom-card{
     bottom:100px;
-    right:20px;
+    right:60px;
 }
 
 .dot {
